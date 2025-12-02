@@ -35,7 +35,7 @@ Elemtype dequeue(Queue* Q) {
 	}
 	Elemtype e = Q->data[Q->front];
 	Q->front++;
-	return e;
+	return 1;
 }
 
 //顺序队列-入队
