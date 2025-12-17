@@ -1,6 +1,5 @@
 // 图-邻接矩阵
 #include <stdio.h>
-#include <stdbool.h>
 
 // 最大顶点数
 #define MAX_VERTICES 100

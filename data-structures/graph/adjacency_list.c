@@ -1,7 +1,6 @@
 // 图-邻接表
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdbool.h>
 
 #define MAX_VERTICES 100
 
